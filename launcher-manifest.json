@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.6",
+  "version": "0.6.7",
   "releaseDate": "2026-09-30",
-  "releaseNotes": "Admin panel (F1). Death timer + respawn button. Lake-shore spawns.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.6/AethonGaming-0.6.6.zip",
-  "minLauncherVersion": "1.0.0",
+  "releaseNotes": "Player identity hardening. HMAC verification. Verified ownership.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.7/AethonGaming-0.6.7.zip",
+  "minLauncherVersion": "1.1.0",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
   "launcherUpdateUrl": "https://github.com/Jm01995/AethonGamingLauncher/releases"
