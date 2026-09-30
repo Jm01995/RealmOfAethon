@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.9",
+  "version": "0.6.10",
   "releaseDate": "2026-09-30",
-  "releaseNotes": "In-game bug reports (F2). Unified report pipeline.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.9/AethonGaming-0.6.9.zip",
+  "releaseNotes": "Respawn button fix.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.10/AethonGaming-0.6.10.zip",
   "minLauncherVersion": "1.0.0",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
