@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.5",
-  "releaseDate": "2026-09-29",
-  "releaseNotes": "Session health monitor. Smart session selection. Localhost guard.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.5/AethonGaming-0.6.5.zip",
+  "version": "0.6.6",
+  "releaseDate": "2026-09-30",
+  "releaseNotes": "Admin panel (F1). Death timer + respawn button. Lake-shore spawns.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.6/AethonGaming-0.6.6.zip",
   "minLauncherVersion": "1.0.0",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
