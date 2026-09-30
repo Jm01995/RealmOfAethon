@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.7",
+  "version": "0.6.8",
   "releaseDate": "2026-09-30",
-  "releaseNotes": "Player identity hardening. HMAC verification. Verified ownership.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.7/AethonGaming-0.6.7.zip",
-  "minLauncherVersion": "1.1.0",
+  "releaseNotes": "Content sync fix. Alpha token optional.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.8/AethonGaming-0.6.8.zip",
+  "minLauncherVersion": "1.0.0",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
   "launcherUpdateUrl": "https://github.com/Jm01995/AethonGamingLauncher/releases"
