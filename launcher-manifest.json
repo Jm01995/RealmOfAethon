@@ -1,0 +1,7 @@
+{
+  "version": "0.6.3",
+  "releaseDate": "2026-09-29",
+  "releaseNotes": "Fix client crash on connect. EOS on by default. 10-player capacity. Public IP auto-detect.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.3/AethonGaming-0.6.3.zip",
+  "minLauncherVersion": "0.1.0"
+}
