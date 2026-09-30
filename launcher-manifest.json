@@ -1,7 +1,11 @@
 {
+  "schemaVersion": 2,
   "version": "0.6.5",
   "releaseDate": "2026-09-29",
   "releaseNotes": "Session health monitor. Smart session selection. Localhost guard.",
   "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.5/AethonGaming-0.6.5.zip",
-  "minLauncherVersion": "0.1.0"
+  "minLauncherVersion": "1.0.0",
+  "gameExecutable": "AethonGaming.exe",
+  "gameExecutablePath": "",
+  "launcherUpdateUrl": "https://github.com/Jm01995/AethonGamingLauncher/releases"
 }
