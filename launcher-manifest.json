@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.11",
+  "version": "0.6.12",
   "releaseDate": "2026-10-01",
-  "releaseNotes": "Health monitor fix. Atomic release safeguards.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.11/AethonGaming-0.6.11.zip",
+  "releaseNotes": "Bug report text field. Door interact priority. Admin fix. Monster spawn.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.12/AethonGaming-0.6.12.zip",
   "minLauncherVersion": "1.0.0",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
