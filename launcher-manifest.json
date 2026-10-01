@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "version": "0.6.12",
+  "version": "0.6.13",
   "releaseDate": "2026-10-01",
-  "releaseNotes": "Bug report text field. Door interact priority. Admin fix. Monster spawn.",
-  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.12/AethonGaming-0.6.12.zip",
+  "releaseNotes": "Bots move properly. Clean usernames. Cabinet auth for all building actions. Invisible server host.",
+  "downloadUrl": "https://github.com/Jm01995/AethonGaming-Releases/releases/download/v0.6.13/AethonGaming-0.6.13.zip",
   "minLauncherVersion": "1.0.0",
   "gameExecutable": "AethonGaming.exe",
   "gameExecutablePath": "",
